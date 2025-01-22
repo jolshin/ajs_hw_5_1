@@ -24,6 +24,6 @@ export default class Heroe extends Character {
         this.health = 100;
         this.level = 1;
         this.attack = charactersAttack[data.type];
-        this.armor = charactersArmor[data.type];
+        this.defence = charactersArmor[data.type];
     }
 }
