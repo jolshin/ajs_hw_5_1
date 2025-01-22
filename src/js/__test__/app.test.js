@@ -1,4 +1,4 @@
-import Heroe from "../heroe.js";
+import Heroe from "../heroes.js";
 
 test('make a new heroe', () => {
   
