@@ -1,5 +1,4 @@
 import Heroe from "../heroe.js";
-import { charactersList } from "../character";
 
 test('make a new heroe', () => {
   

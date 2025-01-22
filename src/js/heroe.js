@@ -1,6 +1,6 @@
 import Character from "./character";
 
-export const charactersAttack = { 
+const charactersAttack = { 
         'Bowman' : 25,
         'Swordsman': 40,
         'Magician': 10,
@@ -9,7 +9,7 @@ export const charactersAttack = {
         'Daemon': 10,
     };
 
-export const charactersArmor = {
+const charactersArmor = {
         'Bowman' : 25,
         'Swordsman': 10,
         'Magician': 40,
